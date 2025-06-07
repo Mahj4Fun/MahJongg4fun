@@ -14,6 +14,9 @@ Visit the [Releases page](https://github.com/Mahj4Fun/MahJongg4fun/releases) to 
 | macOS      | Intel, Apple Silicon | `.dmg`        |
 | Linux      | x64, ARM64           | `.AppImage`   |
 
+Play Web Game [Web](https://www.mahjongg4fun.com)
+iOS App [AppStore](https://apps.apple.com/app/id6746219026)
+
 ## ⚙️ System Requirements
 
 - ​**Windows**: 10/11 (64-bit)
