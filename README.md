@@ -33,12 +33,12 @@ Visit the [Releases page](https://github.com/Mahj4Fun/MahJongg4fun/releases) to 
      chmod +x Mah\ Jongg.AppImage
      ./Mah\ Jongg.AppImage
      ```
-## 🚀 macOS 安全提示解决方案
+## 🚀 macOS Security Alert Solution
 
-首次运行时，您可能会看到安全警告。这是因为我们是一个开源项目，没有购买 Apple 开发者证书。您可以：
+When running the app for the first time, you may see a security warning. This occurs because project without an Apple Developer certificate. You can:
 
-1. ​**推荐方法**​：右键点击应用 → 选择"打开"
-2. ​**或**​ 在终端执行：
+1. ​**Recommended Method**: Right-click the app → Select "Open"
+2. ​**OR**​ Run this terminal command:
    ```bash
    sudo xattr -rd com.apple.quarantine /Applications/Mah\ Jongg.app
    
