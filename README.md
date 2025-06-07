@@ -1,6 +1,6 @@
 # Mah Jongg App
 
-![Banner](https://github.com/Mahj4Fun/MahJongg4fun/banner.jpg) <!-- Replace with project banner -->
+![Banner](https://github.com/Mahj4Fun/MahJongg4fun/blob/main/banner.jpg) <!-- Replace with project banner -->
 
 A cross-platform desktop application supporting Windows, macOS, and Linux.
 
