@@ -51,7 +51,7 @@ When running the app for the first time, you may see a security warning. This oc
 
 ## ↘️ Official Account
 
-- [Facebook](https://www.facebook.com/MahJongg4Fun)
-- [Instagram](https://www.instagram.com/mahj4fun/)
-- [YouTube](https://www.youtube.com/@MahJongg4Fun)
-- [Twitter](https://twitter.com/FunMah97331)
+> - [Facebook](https://www.facebook.com/MahJongg4Fun)
+> - [Instagram](https://www.instagram.com/mahj4fun/)
+> - [YouTube](https://www.youtube.com/@MahJongg4Fun)
+> - [Twitter](https://twitter.com/FunMah97331)
