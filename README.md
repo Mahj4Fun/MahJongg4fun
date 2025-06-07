@@ -11,7 +11,7 @@ Visit the [Releases page](https://github.com/Mahj4Fun/MahJongg4fun/releases) to 
 | Platform   | Architecture Support | File Format   |
 |------------|----------------------|---------------|
 | Windows    | x64, ARM64           | `.exe`        |
-| macOS      | Intel, Apple Silicon | `.dmg` (Universal) |
+| macOS      | Intel, Apple Silicon | `.dmg`        |
 | Linux      | x64, ARM64           | `.AppImage`   |
 
 ## ⚙️ System Requirements
