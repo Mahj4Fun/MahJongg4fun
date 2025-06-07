@@ -30,7 +30,7 @@ Visit the [Releases page](https://github.com/Mahj4Fun/MahJongg4fun/releases) to 
      chmod +x Mah\ Jongg.AppImage
      ./Mah\ Jongg.AppImage
      ```
-## macOS 安全提示解决方案
+## 🚀 macOS 安全提示解决方案
 
 首次运行时，您可能会看到安全警告。这是因为我们是一个开源项目，没有购买 Apple 开发者证书。您可以：
 
