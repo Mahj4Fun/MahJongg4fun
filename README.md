@@ -37,6 +37,13 @@ Visit the [Releases page](https://github.com/Mahj4Fun/MahJongg4fun/releases) to 
 - Feature 2: Auto-update functionality.
 - Feature 3: High-performance local storage.
 
-## 🔄 Updates
+## 🔄 Web Game
 
-- Download new versions from [Releases](https://github.com/Mahj4Fun/MahJongg4fun/releases).
+- Play Web Game [Web](https://www.mahjongg4fun.com).
+
+## ↘️ Official Account
+
+- [Facebook](https://www.facebook.com/MahJongg4Fun)
+- [Instagram](https://www.instagram.com/mahj4fun/)
+- [YouTube](https://www.youtube.com/@MahJongg4Fun)
+- [Twitter](https://twitter.com/FunMah97331)
