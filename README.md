@@ -48,9 +48,6 @@ Visit the [Releases page](https://github.com/Mahj4Fun/MahJongg4fun/releases) to 
 - Feature 2: Auto-update functionality.
 - Feature 3: High-performance local storage.
 
-## 🔄 Web Game
-
-- Play Web Game [Web](https://www.mahjongg4fun.com).
 
 ## ↘️ Official Account
 
