@@ -28,7 +28,9 @@ Visit the [Releases page](https://github.com/Mahj4Fun/MahJongg4fun/releases) to 
 1. ​**Download the installer**: Choose your platform from Releases.
 2. ​**Run**:
    - ​**Windows/macOS**: Double-click the installer.
-   - ​**Linux**: Grant execute permission and run:
+   - ​**Linux**:
+     method 1. “Right-click the .AppImage file → Properties → Check ‘Allow executing file as program’”
+     method 2. Grant execute permission and run:
      ```bash
      chmod +x Mah\ Jongg.AppImage
      ./Mah\ Jongg.AppImage
