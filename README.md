@@ -32,8 +32,11 @@ Visit the [Releases page](https://github.com/Mahj4Fun/MahJongg4fun/releases) to 
      - method 1. “Right-click the .AppImage file → Properties → Check ‘Allow executing file as program’”
      - method 2. Grant execute permission and run:
      ```bash
+     sudo apt install libfuse2
+     
      chmod +x Mah\ Jongg.AppImage
      ./Mah\ Jongg.AppImage
+
      ```
 ## 🚀 macOS Security Alert Solution
 
