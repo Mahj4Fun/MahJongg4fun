@@ -21,7 +21,7 @@ Visit the [Releases page](https://github.com/Mahj4Fun/MahJongg4fun/releases) to 
 
 - ​**Windows**: 10/11 (64-bit)
 - ​**macOS**: 10.15+
-- ​**Linux**: GLIBC 2.28+ libfuse2
+- ​**Linux**: GLIBC 2.28+   libfuse2
 
 ## 🚀 Quick Start
 
