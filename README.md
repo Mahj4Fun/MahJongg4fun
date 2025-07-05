@@ -41,7 +41,7 @@ Visit the [Releases page](https://github.com/Mahj4Fun/MahJongg4fun/releases) to 
         ```
      - **deb**
         - method 1. Double-click the deb package to install if you don't installed
-        - method 2. sudo dpkg -i Mah.Jongg-Linux-x64.deb
+        - method 2. sudo dpkg -i Mah.Jongg-Linux-arm64.deb
      - **rpm**
         - method1. Double-click the rpm package to install if you don't installed
         - method2. sudo rpm -i Mah.Jongg-Linux-x64.rpm
