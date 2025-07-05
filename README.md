@@ -29,16 +29,20 @@ Visit the [Releases page](https://github.com/Mahj4Fun/MahJongg4fun/releases) to 
 2. ​**Run**:
    - ​**Windows/macOS**: Double-click the installer.
    - ​**Linux**:
-     - method 1. “Right-click the .AppImage file → Properties → Check ‘Allow executing file as program’”
-     - method 2. install system libfuse2 and Grant execute permission then run:
-     ```bash
-     sudo apt install libfuse2
+     - **AppImage** 
+        - method 1. “Right-click the .AppImage file → Properties → Check ‘Allow executing file as program’”
+        - method 2. install system libfuse2 and Grant execute permission then run:
+        ```bash
+        sudo apt install libfuse2
      
-     sudo chmod +x Mah\ Jongg.AppImage
+        sudo chmod +x Mah\ Jongg.AppImage
 
-     Double-click the AppImage to Run
-
-     ```
+        Double-click the AppImage to Run
+        ```
+     - **deb**
+        - sudo dpkg -i Mah.Jongg-Linux-x64.deb
+     - **rpm**
+        - sudo rpm -i Mah.Jongg-Linux-x64.rpm
 ## 🚀 macOS Security Alert Solution
 
 When running the app for the first time, you may see a security warning. This occurs because project without an Apple Developer certificate. You can:
