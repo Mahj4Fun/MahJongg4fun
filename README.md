@@ -46,7 +46,7 @@ Visit the [Releases page](https://github.com/Mahj4Fun/MahJongg4fun/releases) to 
         - method1. Double-click the rpm package to install if you don't installed
         - method2. sudo rpm -i Mah.Jongg-Linux-x64.rpm
 
-     - **how to uninstall**
+     - **How to uninstall**
        - **deb** sudo dpkg -r mahjongg4fun
        - **rpm** sudo rpm -e mahjongg4fun
        
