@@ -40,9 +40,16 @@ Visit the [Releases page](https://github.com/Mahj4Fun/MahJongg4fun/releases) to 
         Double-click the AppImage to Run
         ```
      - **deb**
-        - sudo dpkg -i Mah.Jongg-Linux-x64.deb
+        - method 1. Double-click the deb package to install if you don't installed
+        - method 2. sudo dpkg -i Mah.Jongg-Linux-x64.deb
      - **rpm**
-        - sudo rpm -i Mah.Jongg-Linux-x64.rpm
+        - method1. Double-click the rpm package to install if you don't installed
+        - method2. sudo rpm -i Mah.Jongg-Linux-x64.rpm
+
+     - **how to uninstall**
+       - **deb** sudo dpkg -r mahjongg4fun
+       - **rpm** sudo rpm -e mahjongg4fun
+       
 ## 🚀 macOS Security Alert Solution
 
 When running the app for the first time, you may see a security warning. This occurs because project without an Apple Developer certificate. You can:
