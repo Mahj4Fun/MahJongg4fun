@@ -35,7 +35,7 @@ Visit the [Releases page](https://github.com/Mahj4Fun/MahJongg4fun/releases) to 
         ```bash
         sudo apt install libfuse2
      
-        sudo chmod +x Mah\ Jongg.AppImage
+        sudo chmod a+x Mah\ Jongg.AppImage
 
         Double-click the AppImage to Run
         ```
