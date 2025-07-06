@@ -32,12 +32,14 @@ Visit the [Releases page](https://github.com/Mahj4Fun/MahJongg4fun/releases) to 
      - **AppImage** 
         - method 1. “Right-click the .AppImage file → Properties → Check ‘Allow executing file as program’”
         - method 2. install system libfuse2 and Grant execute permission then run:
-        ```bash
-        sudo apt install libfuse2
-     
+        ```bash     
         chmod a+x Mah.Jongg-Linux-x64.AppImage
 
         Double-click the AppImage to Run
+
+        If Has libfuse2 Error, First Install It like below:
+        sudo apt install libfuse2
+
         ```
      - **deb**
         - method 1. Double-click the deb package to install if you don't installed
